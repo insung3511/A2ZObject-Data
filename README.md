@@ -27,3 +27,4 @@
 + All picture pixel : 1280 × 720        </br>
 + The capacity of most photos : 1.2MB   </br>
 + Total File : 60 pictures              </br>
+
